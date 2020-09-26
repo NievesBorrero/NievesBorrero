@@ -33,6 +33,6 @@ Apart:
 
 - I’m currently learning about TDD, BDD, Clean architectures, Agile... among other things! 
 
-- Ask me about ...💬 Anything! I'll be happy to help as much as I can
+- Ask me about ... Anything! I'll be happy to help as much as I can
 
 ---
